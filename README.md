@@ -1,6 +1,6 @@
 # 🔴🟠🟡🟢🔵🟣ColorfulChromium 🟥🟧🟨🟩🟦🟪
 ## (WIP🚧 The files have some non-essential attachments from its legacy version used in chrome. Feel free to alter them.)
- How to use:
+ ###How to use:
  
 1) Download and extract the code ![image](https://user-images.githubusercontent.com/89298319/209341182-1e664e5a-635d-4f50-a633-a3bcdc4d8b80.png)
 
