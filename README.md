@@ -1,4 +1,4 @@
-# 🟪🟦🟩🟨🟧🟥ColorfulChromium 🟥🟧🟨🟩🟦🟪
+# 🟪🟦🟩🟨🟧🟥 ColorfulChromium 🟥🟧🟨🟩🟦🟪
 ## (WIP🚧 The files have some non-essential attachments from its legacy version used in chrome. Feel free to alter them.)
  ### How to use:
  
