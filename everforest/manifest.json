@@ -1,0 +1,57 @@
+{
+"update_url": "https://clients2.google.com/service/update2/crx",
+
+  "version": "2.4.4",
+  "name": "Everforest",
+  "description": "A theme based of the everforest colour swatch",
+  "icons": {
+    "16": "icon16.png",
+    "48": "icon48.png",
+    "128": "icon128.png"
+  },
+  "theme": {
+    "images": {
+      "theme_ntp_background_incognito": "background-4K.png"
+    },
+    "colors": {
+      "frame": [42, 52, 58],
+      "frame_inactive": [42, 52, 58],
+      "frame_incognito": [42, 52, 58],
+      "frame_incognito_inactive": [42, 52, 58],
+
+      "background_tab": [42, 52, 58],
+      "background_tab_inactive": [141, 46, 56],
+
+      "omnibox_background": [42, 52, 58],
+      "omnibox_text": [147,178,89],
+      "omnibox_text_inactive": [183,194,215],
+      "omnibox_icon": [ 42, 52, 58],
+
+      "bookmark_text": [143,188,187],
+      "button_background": [50, 61, 68],
+	
+
+      "tab_background_text": [157, 169, 156],
+      "tab_background_inactive": [205, 205, 0],
+      "tab_text": [221, 126, 128],
+
+      "toolbar": [50, 61, 68],
+      "toolbar_button": [255, 255, 0],
+      "toolbar_button_icon": [50, 61, 68],
+                               
+      "ntp_background": [42, 52, 58],			
+      "ntp_background_incognito": [42, 52, 58],
+      "ntp_header": [255, 255, 0],
+      "ntp_link": [255, 255, 0],
+      "ntp_text": [216, 222, 0]
+    },
+    "tints": {
+      "buttons": [200,200,0]
+    },
+    "properties": {
+      "ntp_background_alignment": "bottom",
+      "ntp_background_repeat": "repeat-x"
+    }
+  },
+  "manifest_version": 2
+}

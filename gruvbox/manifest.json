@@ -1,0 +1,58 @@
+{
+"update_url": "https://clients2.google.com/service/update2/crx",
+
+  "version": "2.4.4",
+  "name": "Gruvbox",
+  "description": "A theme based of the Dracula colour swatch",
+  "icons": {
+    "16": "icon16.png",
+    "48": "icon48.png",
+    "128": "icon128.png"
+  },
+  "theme": {
+    "images": {
+    },
+    "colors": {
+      "frame": [30, 32, 33],
+      "frame_inactive": [30, 32, 33],
+      "frame_incognito": [30, 32, 33],
+      "frame_incognito_inactive": [30, 32, 33],
+
+      "background_tab": [30, 32, 33],
+      "background_tab_inactive": [141, 46, 56],
+
+      "omnibox_background": [30, 32, 33],
+      "omnibox_text": [235,219,178],
+      "omnibox_text_inactive": [183,194,215],
+      "omnibox_icon": [ 30, 32, 33],
+
+      "bookmark_text": [69,133,136],
+      "button_background": [40,40,40],
+	
+
+      "tab_background_text": [189,174,147],
+      "tab_background_inactive": [205, 205, 0],
+      "tab_text": [214, 93, 14],
+
+      "toolbar": [40,40,40],
+      "toolbar_button": [255, 255, 0],
+      "toolbar_button_icon": [40,40,40],
+                               
+      "ntp_background": [30, 32, 33],			
+      "ntp_background_incognito": [30, 32, 33],
+      "ntp_header": [255, 255, 0],
+      "ntp_link": [255, 255, 0],
+      "ntp_text": [216, 222, 0],
+      "ntp_section_link" : [ 216, 95, 14 ]
+
+    },
+    "tints": {
+      "buttons": [0,1,0.5]
+    },
+    "properties": {
+      "ntp_background_alignment": "bottom",
+      "ntp_background_repeat": "repeat-x"
+    }
+  },
+  "manifest_version": 2
+}

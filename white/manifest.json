@@ -1,0 +1,57 @@
+{
+"update_url": "https://clients2.google.com/service/update2/crx",
+
+  "version": "2.4.4",
+  "name": "White",
+  "description": "A theme based of the White colour swatch",
+  "icons": {
+    "16": "icon16.png",
+    "48": "icon48.png",
+    "128": "icon128.png"
+  },
+  "theme": {
+    "images": {
+      "theme_ntp_background_incognito": "background-4K.png"
+    },
+    "colors": {
+      "frame": [216,222,233],
+      "frame_inactive": [216,222,233],
+      "frame_incognito": [216,222,233],
+      "frame_incognito_inactive": [216,222,233],
+
+      "background_tab": [216,222,233],
+      "background_tab_inactive": [41, 46, 56],
+
+      "omnibox_background": [216,222,233],
+      "omnibox_text": [40,42,54],
+      "omnibox_text_inactive": [ 216,222,233],
+      "omnibox_icon": [ 216,222,233 ],
+
+      "bookmark_text": [40,42,54],
+      "button_background": [216,222,233],
+	
+
+      "tab_background_text": [40,42,54],
+      "tab_background_inactive": [255, 255, 0],
+      "tab_text": [208,135,112],
+
+      "toolbar": [216,222,233],
+      "toolbar_button": [255, 255, 0],
+      "toolbar_button_icon": [216,222,233, 0],
+
+      "ntp_background": [216,222,233],			
+      "ntp_background_incognito": [216,222,233],
+      "ntp_header": [255, 255, 0],
+      "ntp_link": [255, 255, 0],
+      "ntp_text": [40,42,54]
+    },
+    "tints": {
+      "buttons": [-1, -1, -1]
+    },
+    "properties": {
+      "ntp_background_alignment": "bottom",
+      "ntp_background_repeat": "repeat-x"
+    }
+  },
+  "manifest_version": 2
+}

@@ -1,0 +1,57 @@
+{
+"update_url": "https://clients2.google.com/service/update2/crx",
+
+  "version": "2.4.4",
+  "name": "Nord",
+  "description": "A theme based of the Nord colour swatch by arctic ice studios",
+  "icons": {
+    "16": "icon16.png",
+    "48": "icon48.png",
+    "128": "icon128.png"
+  },
+  "theme": {
+    "images": {
+      "theme_ntp_background_incognito": "background-4K.png"
+    },
+    "colors": {
+      "frame": [46,52,64],
+      "frame_inactive": [46,52,64],
+      "frame_incognito": [46,52,64],
+      "frame_incognito_inactive": [46,52,64],
+
+      "background_tab": [46,52,64],
+      "background_tab_inactive": [41, 46, 56],
+
+      "omnibox_background": [46,52,64],
+      "omnibox_text": [216, 222, 233],
+      "omnibox_text_inactive": [ 46,52,64 ],
+      "omnibox_icon": [ 46,52,64 ],
+
+      "bookmark_text": [216, 222, 233],
+      "button_background": [59,66,82],
+	
+
+      "tab_background_text": [216, 222, 233],
+      "tab_background_inactive": [255, 255, 0],
+      "tab_text": [129,161,193],
+
+      "toolbar": [59,66,82],
+      "toolbar_button": [255, 255, 0],
+      "toolbar_button_icon": [59,66,82],
+
+      "ntp_background": [46,52,64],
+      "ntp_background_incognito": [46,52,64],
+      "ntp_header": [255, 255, 0],
+      "ntp_link": [255, 255, 0],
+      "ntp_text": [216, 222, 233]
+    },
+    "tints": {
+      "buttons": [-1, -1, -1]
+    },
+    "properties": {
+      "ntp_background_alignment": "bottom",
+      "ntp_background_repeat": "repeat-x"
+    }
+  },
+  "manifest_version": 2
+}
