@@ -12,7 +12,7 @@
 </p>
 
 # 🖼️📷
-(The wallpaper format may not be lossless so if you want a different resolution or noise level, right-click the images and `search the web for images`. 
+The wallpaper format may not be lossless so if you want a different resolution or noise level, right-click the images and `search the web for images`. 
 <p align="centre">
 <img src="https://user-images.githubusercontent.com/89298319/209445444-acd7aaa3-fab4-4841-bbe1-7e7687055c22.jpg" width="49%">
 <img src="https://user-images.githubusercontent.com/89298319/209445860-446f67ee-b899-47ea-94c8-b5c556273390.jpg" width="49%">
