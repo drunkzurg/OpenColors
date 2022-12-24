@@ -11,7 +11,7 @@
 <img src="https://user-images.githubusercontent.com/89298319/209445951-bb77ee80-5fb1-4c1e-b944-5ccdd0ab9897.png" width="49%">
 </p>
 
-## (WIP🚧 The files have some non-essential attachments from its legacy version used in chrome. Feel free to alter them.)
+### `WIP🚧 The files have some non-essential attachments from its legacy version used in chrome. Feel free to alter them.`
 ### How to use:
 1) Download and extract the code
 2) Go to edge://extensions/ and toggle these:![image](https://user-images.githubusercontent.com/89298319/209340724-b641cb23-a399-477f-80e0-3edc4298fef4.png)
