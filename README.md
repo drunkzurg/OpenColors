@@ -11,6 +11,12 @@
 <img src="https://user-images.githubusercontent.com/89298319/209445951-bb77ee80-5fb1-4c1e-b944-5ccdd0ab9897.png" width="49%">
 </p>
 
+## (WIP🚧 The files have some non-essential attachments from its legacy version used in chrome. Feel free to alter them.)
+### How to use:
+1) Download and extract the code
+2) Go to edge://extensions/ and toggle these:![image](https://user-images.githubusercontent.com/89298319/209340724-b641cb23-a399-477f-80e0-3edc4298fef4.png)
+3) Go to "Load unpacked" and select the folder with the theme of your choice. ![image](https://user-images.githubusercontent.com/89298319/209340932-0acf28df-cb51-4d32-a7c9-8a4ddb1ba64e.png)
+
 # 🖼️📷
 The wallpaper format may not be lossless so if you want a different resolution or noise level, right-click the images and `search the web for images`. 
 <p align="centre">
@@ -23,12 +29,5 @@ The wallpaper format may not be lossless so if you want a different resolution o
 <p align="centre">
 <img src="https://user-images.githubusercontent.com/89298319/209445495-a38ab36b-f116-4845-bb6a-fe4a3b798336.png" width="49%">
 </p>
-
-## (WIP🚧 The files have some non-essential attachments from its legacy version used in chrome. Feel free to alter them.)
- ### How to use:
- 
-1) Download and extract the code
-2) Go to edge://extensions/ and toggle these:![image](https://user-images.githubusercontent.com/89298319/209340724-b641cb23-a399-477f-80e0-3edc4298fef4.png)
-3) Go to "Load unpacked" and select the folder with the theme of your choice. ![image](https://user-images.githubusercontent.com/89298319/209340932-0acf28df-cb51-4d32-a7c9-8a4ddb1ba64e.png)
 
 # 🎊
